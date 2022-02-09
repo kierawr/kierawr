@@ -7,4 +7,4 @@
 
 [![My Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=kierawr&layout=compact&theme=onedark)](https://github.com/kierawr/github-readme-stats)
 
-<img src="https://media2.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="100">
+<img src="https://media2.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="100" align="right">
