@@ -3,4 +3,6 @@
   <img src="https://pronouns.vercel.app/she/her?gradient=earthly" width="256" height="64" alt="My pronouns are she/her">
 </a>
 
-![kiera's GitHub stats](https://github-readme-stats.vercel.app/api?username=kierawr&theme=onedark&show_icons=true)
+![Kiera's GitHub stats](https://github-readme-stats.vercel.app/api?username=kierawr&theme=onedark&show_icons=true)
+
+[![My Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=kierawr&layout=compact)](https://github.com/kierawr/github-readme-stats)
