@@ -5,4 +5,4 @@
 
 ![Kiera's GitHub stats](https://github-readme-stats.vercel.app/api?username=kierawr&theme=onedark&show_icons=true)
 
-[![My Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=kierawr&layout=compact)](https://github.com/kierawr/github-readme-stats)
+[![My Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=kierawr&layout=compact&theme=onedark)](https://github.com/kierawr/github-readme-stats)
