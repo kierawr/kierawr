@@ -3,9 +3,9 @@
   <img src="https://pronouns.vercel.app/she/her?gradient=earthly" width="256" height="64" alt="My pronouns are she/her">
 </a>
 
-![Kiera's GitHub stats](https://github-readme-stats.vercel.app/api?username=kierawr&theme=onedark&show_icons=true)
+![Kiera's GitHub stats](https://github-readme-stats.vercel.app/api?username=kierawr&theme=noctis_minimus&show_icons=true)
 
 
-[![My Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=kierawr&theme=onedark)](https://github.com/kierawr/github-readme-stats)
+[![My Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=kierawr&theme=noctis_minimus)](https://github.com/kierawr/github-readme-stats)
 
 <img src="https://media2.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="100" align="right">
